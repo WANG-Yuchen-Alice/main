@@ -45,6 +45,7 @@ e.g. typing *`help`* and pressing kbd:[Enter] will open the help window.
 * **`delete`**`i/3 x/f` : deletes the 3rd entry from food entry list shown in the dashboard
 * *`exit`* : exits the app
 
+[WARNING] FitHelper does not support expanding the main window.
 .  Refer to <<Features>> for details of each command.
 
 // tag::prefix[]
